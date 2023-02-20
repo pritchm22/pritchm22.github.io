@@ -1,0 +1,4 @@
+﻿  CS_LinkedList.cpp
+C:\Users\Reaper\source\repos\Bid_Program\Bid_Program\CS_LinkedList.cpp(241,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Reaper\source\repos\Bid_Program\Bid_Program\CS_LinkedList.cpp(259,35): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Bid_Program.vcxproj -> C:\Users\Reaper\source\repos\Bid_Program\x64\Debug\Bid_Program.exe
